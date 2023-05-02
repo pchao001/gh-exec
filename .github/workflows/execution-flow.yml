@@ -82,5 +82,5 @@ jobs:
       - name: Output information
         run: |
           echo "Something went wrong"
-          echo  "${{ gitnub }}"
+          echo "${{ gitnub }}"
     
